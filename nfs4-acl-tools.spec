@@ -4,7 +4,7 @@
 #
 Name     : nfs4-acl-tools
 Version  : 0.3.5
-Release  : 1
+Release  : 2
 URL      : http://linux-nfs.org/~bfields/nfs4-acl-tools/nfs4-acl-tools-0.3.5.tar.gz
 Source0  : http://linux-nfs.org/~bfields/nfs4-acl-tools/nfs4-acl-tools-0.3.5.tar.gz
 Summary  : No detailed summary available
